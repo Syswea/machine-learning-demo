@@ -204,7 +204,7 @@ dependencies:
       - soupsieve==2.7
       - stevedore==5.4.1
       - symengine==0.13.0
-      - sympy==1.14.0
+      - sympy==1.12.1
       - termcolor==3.1.0
       - threadpoolctl==3.6.0
       - tomlkit==0.13.3
